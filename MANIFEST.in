@@ -1,0 +1,6 @@
+include MANIFEST.in
+recursive-include extra_apps/xadmin/locale *
+recursive-include extra_apps/xadmin/static/xadmin/css *
+recursive-include extra_apps/xadmin/static/xadmin/js *
+recursive-include extra_apps/xadmin/static/xadmin/vendor *
+recursive-include extra_apps/xadmin/templates *
